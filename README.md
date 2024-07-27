@@ -12,7 +12,7 @@
 
 ## Algorithm
 
-每周至少做一个 `LeetCode` 算法题。主要是为了编程训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。关于做 `LeetCode` 的优势，可以看一下耗子叔的文章：[LEETCODE 编程训练](https://coolshell.cn/articles/12052.html,'LEETCODE')
+每周至少做一个 `LeetCode` 算法题。主要是为了编程训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。关于做 `LeetCode` 的优势，可以看一下耗子叔的文章：[LEETCODE 编程训练](https://coolshell.cn/articles/12052.html)
 
 
 ## Review
